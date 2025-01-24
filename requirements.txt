@@ -1,0 +1,7 @@
+openai
+pinecone-client
+PyPDF2
+pandas
+sentence-transformers
+streamlit
+gradio
